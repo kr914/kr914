@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Khushboo Rani
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning and building projects using Power BI, SQL, Python and Advance Excel.
-- 💞️ I’m looking to collaborate on full time data analyst job roles.
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning and building projects using Power BI, SQL, Python and Advance Excel
+- 📘 I have done four virtual internships in companies like AtliQ Technologies, Accenture, Tata and PwC
+- 💞️ I’m looking to collaborate on full time data analyst/business analyst job roles
 - 📫 How to reach me kr9142077@gmail.com
 
 <!---
